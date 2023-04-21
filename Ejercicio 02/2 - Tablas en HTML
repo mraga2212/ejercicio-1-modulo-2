@@ -1,0 +1,33 @@
+
+      <!DOCTYPE html>
+<html>
+<head>
+    <title>Ejercicio 02/2 - Tablas en HTML</title>
+</head>
+<body>
+    <h3> Horas para practicar</h3>
+    <table>
+        <tr>
+            <th>TITULOS</th>
+            <th>AÑO DE PUBLICACION</th> 
+            <th>ENLACES A AMAZON</th>
+        </tr>
+        <th>AUTOR</th> 
+        <tr>
+            <td>Querido yo: Vamos a estar bien (Spanish Edition)</td>
+            <td>4 Marzo 2022</td>
+            <td><a href="https://www.amazon.com/-/es/Alejandro-Sequera/dp/B09TMT9CNS/ref=sr_1_2?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=LIBROS&sr=8-2">link</a></td>
+        </tr>
+        <br>
+        <tr>
+            <td>¡Escóndeme!: Sólo tú puedes leer este libro</td>
+        </tr>
+        <br>
+        <tr>
+            <td>El Doctor en ti</td>
+        </tr>
+
+    </table>
+    
+</body>
+</html>
